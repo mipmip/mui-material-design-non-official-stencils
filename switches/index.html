@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Unofficial MUI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row m-3">
+        <h1>Unofficial MUI</h1>
+        <p>
+            Author: Dimitar Ivanovski & Pim Snel<br/>
+            <a href="https://creativecommons.org/licenses/by/4.0/">License</a>
+        </p>
+        <p>Expanding set of community made MUI components.<br><br>Originally Ported SVG-Stencil from https://www.figma.com/community/file/1062292530585891793</p>
+        <div id="helpText"></div>
+      </div>
+      <hr>
+      <div class="row m-3">
+          <div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="1_bg.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="2_New_Layer_1653485856.59034.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="3_New_Layer_1653485856.5942936.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="4_New_Layer_1653485856.5949454.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="5_New_Layer_1653485856.5954752.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="6_New_Layer_1653485856.5960145.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="7_New_Layer_1653485856.5965402.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="8_New_Layer_1653485856.5970802.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="9_New_Layer_1653485856.5976086.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="10_New_Layer_1653485856.5981438.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="11_New_Layer_1653485856.5986826.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="12_New_Layer_1653485856.5992222.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="13_New_Layer_1653485856.5997815.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="14_New_Layer_1653485856.6003277.svg" /></div><div class="col-sm"> <img style="max-width:200px;" class="img-thumbnail" src="15_New_Layer_1653485856.600874.svg" /></div>
+      </div>
+    </div>
+    
+  <script>
+    switch(window.location.protocol) {
+          case 'http:':
+          case 'https:':
+            document.getElementById('helpText').innerHTML = '<p><a href="https://svg-stencils.github.io/?stencil='+window.location.href+'">preview this stencil in SVG Stencils</a></p><pre style="padding:20px;background-color:#eee; display: inline-block;">{\n  "name": "'+document.title+'",\n  "url": "'+window.location.href+'"\n}</pre><p>Add this stencil to the <a href="https://github.com/svg-stencils/svg-stencils.github.io/edit/main/public/stencils.json">SVG Stencils Library</a> (Only send Pull requests when your Stencil is on a public webserver)</p>'
+            break;
+            case 'file:':
+            document.getElementById('helpText').innerHTML = 'If you run a local webserver you can preview this stencil in <a href="https://svg-stencils.github.io">SVG Stencils</a>. <br>E.g. <strong>cd my-stencil-dir; npm exec http.server -- --cors</strong>'
+            break;
+            default:
+            document.getElementById('helpText').innerHTML = ''
+            }
+  </script>
+        
+  </body>
+</html>
