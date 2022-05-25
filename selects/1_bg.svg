@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1522"
+   height="1310"
+   viewBox="0 0 1522 1310"
+   fill="none"
+   version="1.1"
+   id="svg298"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs296" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <rect
+       width="1522"
+       height="1310"
+       fill="#ffffff"
+       id="rect4"
+       x="0"
+       y="0" />
+    <text
+       fill="#000000"
+       fill-opacity="0.87"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="48px"
+       letter-spacing="0px"
+       id="text8-7"
+       x="737.35681"
+       y="198.58839"><tspan
+         x="64.562775"
+         y="112.56438"
+         id="tspan6-7">Selects</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="20px"
+       font-weight="500"
+       letter-spacing="0.15px"
+       id="text138"
+       x="737.35681"
+       y="198.58839"><tspan
+         x="64.562775"
+         y="198.58839"
+         id="tspan136">Normal</tspan></text>
+    <text
+       fill="#000000"
+       fill-opacity="0.6"
+       xml:space="preserve"
+       style="white-space:pre;display:inline"
+       font-family="Roboto"
+       font-size="20px"
+       font-weight="500"
+       letter-spacing="0.15px"
+       id="text12941"
+       x="737.35681"
+       y="198.58839"><tspan
+         x="737.35681"
+         y="198.58839"
+         id="tspan12939">With Icons and helper texts</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1"
+       d="M 1,2 V 2"
+       id="path443" />
+  </g>
+</svg>
